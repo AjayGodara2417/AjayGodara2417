@@ -12,9 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Ajay Godara</h2>
-<p>agodara771@gmail.com</p>
-<p>6283913022</p>
-<a><href src="https://ajay-fullstackdeveloper.vercel.app/"></href></a>
-![Profile Banner](./banner.png)
-![](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/banner.png)
+![2](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/banner.png)

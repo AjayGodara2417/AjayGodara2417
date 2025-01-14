@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **AjayGodara2417/AjayGodara2417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +17,4 @@ Here are some ideas to get you started:
 <p>6283913022</p>
 <a><href src="https://ajay-fullstackdeveloper.vercel.app/"></href></a>
 ![Profile Banner](./banner.png)
+![2](https://github.com)

@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![2](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/banner.png)
 
-![2](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/nextBanner.png)
+![2](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/newbanner.png)
+
+![2](https://github.com/AjayGodara2417/AjayGodara2417/blob/main/banner.png)
